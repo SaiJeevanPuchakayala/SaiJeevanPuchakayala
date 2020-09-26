@@ -1,5 +1,5 @@
 # Hello There :wave: !
 ##This is :boom::boom:Sai Jeevan Puchakayala:boom::boom:
-:laptop:Amritian:laptop:
+:white_check_mark:Amritian
 
-:fire:From khammam*Telangana*India:fire:
+:white_check_mark::fire:From khammam*Telangana*India:fire:
