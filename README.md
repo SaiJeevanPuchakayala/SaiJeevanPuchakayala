@@ -6,4 +6,4 @@
 * I am Interested to work on Image Processing, Natural Language Processing, Computer Vision And Data Science.
 * :mailbox_with_no_mail: Reach me at [saijeevan2002@gmail.com](mailto:saijeevan2002@gmail.com).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJeevanPuchakayala&langs_count=8&show_icons=true&theme=radical&layout=compact)](https://github.com/SaiJeevanPuchakayala/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJeevanPuchakayala&langs_count=8&show_icons=true&theme=radical)](https://github.com/SaiJeevanPuchakayala/github-readme-stats)
