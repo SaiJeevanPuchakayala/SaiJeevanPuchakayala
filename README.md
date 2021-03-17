@@ -24,10 +24,8 @@
   <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/vscode.webp" width="70">
 </p>
 
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJeevanPuchakayala&layout=compact&show_icons=true&theme=merko" />
-</details>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJeevanPuchakayala&layout=compact&show_icons=true" />
+
 
 
  ### 📫 Connect with me<img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/handshake.gif" height="32px">
