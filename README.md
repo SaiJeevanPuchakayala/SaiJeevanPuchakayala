@@ -25,19 +25,10 @@
 </p>
 
 <details>
-  <summary>🌟 GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaiJeevanPuchakayala&show_icons=true&theme=merko" />
-</details>
-
-<details>
   <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJeevanPuchakayala&layout=compact" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJeevanPuchakayala&layout=compact&show_icons=true&theme=merko" />
 </details>
 
-<details>
-  <summary>😄 Here is meme for you, to make your day better</summary>
-   <a href="https://github.com/ShahriarShafin"><img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/meme.png" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="350"></a>
-</details>
 
  ### 📫 Connect with me<img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/handshake.gif" height="32px">
 
