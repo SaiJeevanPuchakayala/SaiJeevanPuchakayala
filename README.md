@@ -3,7 +3,7 @@
  ![Profile views](https://gpvc.arturio.dev/SaiJeevanPuchakayala?v=3)
 
 - #### From Telangana, India.
-- #### Student of Electrical & Computer Engineering, <a href="https://www.amrita.edu/" target="_blank">Amrita School Of Engineering</a>
+- #### Student of Electrical & Computer Engineering, <a href="https://www.amrita.edu/" target="_blank">Amrita School Of Engineering.</a>
 - #### I'm a Data Science Enthusiast.
 - #### I have some works with Frontend Web Devlopment.<br> 
 <p>
