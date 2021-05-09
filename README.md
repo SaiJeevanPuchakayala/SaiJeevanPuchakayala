@@ -1,3 +1,6 @@
+<p align="center"><a href="https://github.com/SaiJeevanPuchakayala
+"><img src="https://user-images.githubusercontent.com/41234408/90637369-87611d00-e249-11ea-958a-99fbac1e90eb.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 <h1 align="center">Hello There <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/hi.gif" width="40px"/> This is <a style="text-decoration:none;" href="https://saijeevanpuchakayala.github.io" target="_blank">Sai Jeevan P</a>. Nice to see you.🤗</h1>
 
  ![Profile views](https://gpvc.arturio.dev/SaiJeevanPuchakayala?v=3)
