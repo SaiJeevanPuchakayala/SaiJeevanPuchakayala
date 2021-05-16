@@ -5,10 +5,11 @@
 
  ![Profile views](https://gpvc.arturio.dev/SaiJeevanPuchakayala?v=3)
 
-- #### From Telangana, India.
-- #### Student of Electrical & Computer Engineering, <a href="https://www.amrita.edu/" target="_blank">Amrita School Of Engineering.</a>
-- #### I'm a Data Science Enthusiast.
-- #### I have some works with Frontend Web Devlopment.<br> 
+- #### I'm a second year student pursuing Bachelors's in Electrical and Computer Engineering 🎓 from Amrita University 🏛. 
+- #### I'm a passionate learner who's always willing to learn and work across technologies. 
+- #### I love to explore new technologies and try to solve real-life problems ✨. 
+- #### Apart from that I'm currently working on Full stack Development 🕸️ and Machine Learning 🤓.
+
 <p>
  <img align="right" src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
