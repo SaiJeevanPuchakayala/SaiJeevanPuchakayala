@@ -8,7 +8,7 @@
 - #### I'm a third year student pursuing Bachelors's in Electrical and Computer Engineering 🎓 from Amrita University 🏛. 
 - #### I'm a passionate learner who's always willing to learn and work across technologies. 
 - #### I love to explore new technologies and try to solve real-life problems ✨. 
-- #### Apart from that I'm currently working on Full stack Development 🕸️ and Machine Learning 🤓.
+- #### Apart from that I'm currently working on Full stack Web Development 🕸️ and Machine Learning 🤓.
 
 <p>
  <img align="right" src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/programmer.gif" width="310px alt="programmergif">
