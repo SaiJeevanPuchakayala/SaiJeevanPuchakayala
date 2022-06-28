@@ -6,7 +6,7 @@
 ![Banner](https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/LinkedIn_Banner.png)
 
 
- ![Profile views](https://gpvc.arturio.dev/SaiJeevanPuchakayala?v=3)
+ ![Profile views](https://gpvc.arturio.dev/SaiJeevanPuchakayala?v=3) [![Linkedin: Sai Jeevan Puchakayala](https://img.shields.io/badge/-Sai%20Jeevan%20Puchakayala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saijeevanpuchakayala/)](https://www.linkedin.com/in/saijeevanpuchakayala/)
 
 - #### I'm a 4th year student pursuing Bachelors's in Electrical and Computer Engineering 🎓 from Amrita University 🏛. 
 - #### I'm a passionate learner who's always willing to learn and work across technologies. 
@@ -39,6 +39,9 @@
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJeevanPuchakayala&show_icons=true&title_color=fff&icon_color=79ff97&text_color=79ff97&bg_color=151515&layout=compact)
+
+<br>
 
 📫 How to reach me: 
 * Email me at [saijeevan2002@gmail.com](mailto:saijeevan2002@gmail.com)
