@@ -38,7 +38,9 @@
 [![SaiJeevanPuchakayala's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiJeevanPuchakayala&hide=["contribs","prs"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=79ff97&bg_color=151515)](https://github.com/SaiJeevanPuchakayala)
 
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiJeevanPuchakayala&layout=compact)](https://github.com/SaiJeevanPuchakayala/github-readme-stats)
+
 <br>
 
 📫 How to reach me: 
