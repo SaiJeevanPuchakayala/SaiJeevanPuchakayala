@@ -3,7 +3,7 @@
 <h1>Hello There! This is <a style="text-decoration:none;" href="https://saijeevanpuchakayala.github.io" target="_blank">Sai Jeevan P</a>. Nice to see you here.🤗</h1>
 
 
-![Banner](https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/LinkedIn_Banner.png)
+![Banner](https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/LinkedInBanner.png)
 
 
  ![Profile views](https://gpvc.arturio.dev/SaiJeevanPuchakayala?v=3) [![Linkedin: Sai Jeevan Puchakayala](https://img.shields.io/badge/-Sai%20Jeevan%20Puchakayala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saijeevanpuchakayala/)](https://www.linkedin.com/in/saijeevanpuchakayala/)
