@@ -13,7 +13,7 @@
 - #### I'm a 4th year student pursuing Bachelors's in Electrical and Computer Engineering 🎓 from Amrita University 🏛. 
 - #### I'm a passionate learner who's always willing to learn and work across technologies. 
 - #### I love to explore new technologies and try to solve real-life problems ✨. 
-- #### Apart from that I'm currently working on Full stack Web Development 🕸️ and Machine Learning 🤓.
+- #### Apart from that I'm currently working on Data Science 🕸️ and Python Development 🤓.
 
 <br>
 
