@@ -45,5 +45,7 @@
 
 <br>
 
-📫 How to reach me: 
+⭐ Thank you for visiting my profile, and feel free to reach out if you have any questions or would like to collaborate on a project!
+
+📫 Reach me at: 
 * Email me at [saijeevan2002@gmail.com](mailto:saijeevan2002@gmail.com)
