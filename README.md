@@ -7,6 +7,7 @@
 
 
  ![Profile views](https://gpvc.arturio.dev/SaiJeevanPuchakayala?v=3) [![Linkedin: Sai Jeevan Puchakayala](https://img.shields.io/badge/-Sai%20Jeevan%20Puchakayala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saijeevanpuchakayala/)](https://www.linkedin.com/in/saijeevanpuchakayala/)
+ [![Medium: Sai Jeevan Puchakayala](https://img.shields.io/badge/-Sai%20Jeevan%20Puchakayala-black?style=flat-square&logo=Medium&logoColor=white&link=https://saijeevanpuchakayala.medium.com/)](https://saijeevanpuchakayala.medium.com/)
  
  > ### Resume: [Sai Jeevan Puchakayala](https://flowcv.me/sai-jeevan-puchakayala)
 
