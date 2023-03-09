@@ -13,7 +13,7 @@
 
 - #### I'm a 4th year student pursuing Bachelors's in Electrical and Computer Engineering 🎓 from Amrita University 🏛. 
 - #### I'm a high-performing, goal-oriented, and data-driven individual who is determined and ambitious about learning new technologies to build things that end up living on the internet and rely heavily on statistical rigor to support decisions and hypotheses. 
-- #### Having a penchant for Data Science and Python Development, much of my career from past 3 years has revolved around developing and building data-driven products that help businesses to improve.
+- #### Having a penchant for Data Science and Python Development, much of my career over the past 3 years has revolved around developing and building data-driven products that help businesses to improve.
 
 <br>
 
