@@ -28,7 +28,7 @@
 <br>
 
  # 🔬📊🔍🔢🧠📈🤖🌱🔥🌟🚀
-
+### 🌟 Additionally, I'm excitedly delving into the realm of inferencing AI/ML models in AR/VR environments, shaping the future of technology.
 <br>
 
 
