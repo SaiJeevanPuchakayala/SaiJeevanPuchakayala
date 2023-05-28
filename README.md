@@ -1,6 +1,6 @@
 
 
-<h1>Hello There! This is <a style="text-decoration:none;" href="https://saijeevanpuchakayala.github.io" target="_blank">Sai Jeevan P</a>. Nice to see you here.🤗</h1>
+<h1>Hello There! This is <a style="text-decoration:none;" href="https://saijeevanpuchakayala.github.io" target="_blank">Sai Jeevan P</a>. Glad to see you here.🤗</h1>
 
 
 ![Banner](https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/LinkedIn__Banner.png)
@@ -11,9 +11,15 @@
  
  > ### Resume: [Sai Jeevan Puchakayala](https://flowcv.me/sai-jeevan-puchakayala)
 
-- #### I'm a 4th year student pursuing Bachelors's in Electrical and Computer Engineering 🎓 from Amrita University 🏛. 
-- #### I'm a high-performing, goal-oriented, and data-driven individual who is determined and ambitious about learning new technologies to build things that end up living on the internet and rely heavily on statistical rigor to support decisions and hypotheses. 
-- #### Having a penchant for Data Science and Python Development, much of my career over the past 3 years has revolved around developing and building data-driven products that help businesses to improve.
+- #### 👋 Hey! I'm Jeevan, a relentless explorer of the frontiers of data science, AI, and ML. With a keen interest in the latest advancements, I'm dedicated to unravelling hidden insights and patterns in data.
+ 
+- #### 💡I'm passionate about developing cutting-edge AI models while emphasizing responsible and ethical AI practices.
+ 
+- #### 💻 My GitHub repositories showcase my expertise in building state-of-the-art AI/ML projects for distinct industry sectors, integrating MLOps workflows, and implementing explainable AI (XAI) techniques.
+
+- #### 🌍 Join me on this exciting journey as we dive into the world of Generative AI, where machines possess the ability to create new and innovative solutions. Together, let's push the boundaries of AI, ensuring transparency, fairness, and accountability at every step.
+
+- #### 🌟 Stay tuned for my latest projects, publications, and collaborations, as we shape the future of data science and AI. Let's code the world of tomorrow, today! 🤝  
 
 <br>
 
