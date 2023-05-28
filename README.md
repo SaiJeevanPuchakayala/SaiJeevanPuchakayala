@@ -27,18 +27,7 @@
 
 <br>
 
- ### Languages and Tools:
-
-<p>
-  <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/html.gif" width="70">
-  <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/css.gif" width="70">
-  <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/js.webp" width="70">
- <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/git.gif" width="130">
-  <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/bootstrap.gif" width="70">
-  <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/github.webp" width="70">
-  <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/vscode.webp" width="70">
- <img src="https://raw.githubusercontent.com/SaiJeevanPuchakayala/SaiJeevanPuchakayala/master/Assets/firebase.gif" width="70">
-</p>
+ # 🔬📊🔍🔢🧠📈🤖🌱🔥🌟🚀
 
 <br>
 
